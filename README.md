@@ -1,1 +1,2 @@
-# PatternRecognition-proj
+## 研究生《模式识别实验》代码及分析
+
