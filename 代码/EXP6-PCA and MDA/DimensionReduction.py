@@ -69,7 +69,6 @@ class DPDR(object):
     def transform(self, X):
         return np.dot(X, self.coef_)
 
-
 class LDA(object):
 
     def __init__(self, n_components):

@@ -1,6 +1,6 @@
 import numpy as np
 from PIL import Image
-from dimension_reduction import PCA, DPDR, LDA
+from DimensionReduction import PCA, DPDR, LDA
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.decomposition import PCA as sk_PCA
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis as sk_lda
